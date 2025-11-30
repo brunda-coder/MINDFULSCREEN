@@ -1,0 +1,34 @@
+# Core async + utilities
+aiofiles
+asyncio
+requests
+python-dotenv
+
+# AI & emotion engine (placeholder for your models)
+numpy
+scipy
+scikit-learn
+transformers
+torch
+
+# Database handling
+tinydb
+sqlalchemy
+
+# Security
+pyjwt
+cryptography
+
+# Cloud sync / networking
+aiohttp
+
+# Voice system (TTS/STT)
+gTTS
+SpeechRecognition
+pydub
+
+# UI / theming
+jinja2
+
+# Analytics / logs
+loguru
